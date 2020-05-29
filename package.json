@@ -1,0 +1,31 @@
+{
+  "name": "css-generator-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@shopify/polaris": "^4.22.0",
+    "babel-eslint": "^10.1.0",
+    "next": "9.4.2",
+    "next-redux-wrapper": "^6.0.0",
+    "react": "16.13.1",
+    "react-color": "^2.18.1",
+    "react-dom": "16.13.1",
+    "react-redux": "^7.2.0",
+    "react-resizable": "^1.10.1",
+    "react-sortablejs": "^2.0.11",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^2.5.1"
+  }
+}

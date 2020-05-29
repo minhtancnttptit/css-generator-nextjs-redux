@@ -1,0 +1,20 @@
+.previewBox {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    right: 0;
+		top: 0;
+		opacity: 0.7;
+}
+
+.previewTransform {
+  	outline: 1px solid #333;
+}
+
+.previewPositionOrigin {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	background-color: red;
+	border-radius: 99px;
+}
